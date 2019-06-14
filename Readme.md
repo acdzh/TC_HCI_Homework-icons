@@ -1,6 +1,6 @@
 # HCI第一次作业
 
-![](https://badgen.net/badge/**/1751130/blue)  ![](https://badgen.net/badge/**徐扬**/1751576/cyan)
+![](https://badgen.net/badge/**/1751130/blue)  ![](https://badgen.net/badge/**/1751576/cyan)
 
 --------
 ## 1. 设计结果
